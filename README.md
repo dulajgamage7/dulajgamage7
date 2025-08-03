@@ -5,10 +5,7 @@
 ## ✨ About Me:
 With over 7 years of experience in Software Quality Assurance and currently working in the UAE, I specialize in end-to-end testing across web and mobile platforms. I bring deep expertise in both manual and automated testing using Playwright and Cypress, with a strong focus on functional, regression, UI, and performance testing. I have a proven track record of driving innovation in test automation, improving test coverage, and accelerating release cycles. Experienced in Agile environments, test planning, defect triage, and cross-browser testing. Passionate about building scalable QA processes and delivering high-quality software through continuous improvement.
 
-### End-to-End Automation Framework with Playwright by addhering POM, Gherkin syntax with Playwright Steps & CI/CD
-
 Designed and implemented an end-to-end automation framework using Playwright, incorporating Page Object Model (POM) architecture and Gherkin syntax with Playwright steps, and integrated it with Git CI and using Jenkins as a test runner
-
 
 
 ## 🌐 Socials:
